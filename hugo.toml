@@ -1,3 +1,64 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://theadventuresofsonya.github.io/"
+languageCode = "ru"
+title = "Приключения кошечки Сони"
+copyright = "© NP"
+theme = "archie"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+	mode="auto"
+	useCDN=false
+	subtitle = [
+		"Игра для самых маленьких и не очень",
+		"Самая умная коша",
+		"Игра про самую быструю кошку",
+		"Самая кошачья коша",
+		"Игра про мурлыку",
+		"Самая умная кошка",
+		"Приключения самой замечательной кошки"
+	]
+	favicon = "/images/paw.png"
+
+
+[[params.social]]
+name = "GitHub"
+icon = "simple:github"
+url = "https://github.com/nikolaypopov86/sonya-adventures"
+
+[[params.social]]
+name = "Telegram"
+icon = "simple:telegram"
+url = "https://t.me/garretnight"
+
+[[params.social]]
+name = "VK"
+icon = "simple:vk"
+url = "https://vk.com/garrettnight"
+
+[[menu.main]]
+name = "Главная"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Новости"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Скачать"
+url = "/downloads"
+weight = 3
+
+[[menu.main]]
+name = "Про игру"
+url = "/about"
+weight = 4
+
+[[menu.main]]
+name = "Теги"
+url = "/tags"
+weight = 5
+

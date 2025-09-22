@@ -1,6 +1,6 @@
 +++
 date = '2025-09-22T21:55:54+05:00'
-draft = true
+draft = false
 title = 'Про игру'
 +++
 

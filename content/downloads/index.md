@@ -1,6 +1,6 @@
 +++
 date = '2025-09-22T21:57:50+05:00'
-draft = true
+draft = false
 title = 'Скачать игру'
 +++
 

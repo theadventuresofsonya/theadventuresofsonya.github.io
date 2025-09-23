@@ -40,6 +40,8 @@
       {{ end }}
     </div>
 
+    {{- partial "giscus.html" . -}}
+
     <!-- Disqus -->
     {{- $.Scratch.Set "isDisqus" true -}}
     {{ if not .Site.Config.Services.Disqus.Shortname }}

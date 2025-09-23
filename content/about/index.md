@@ -27,11 +27,11 @@ title = 'Про игру'
 Проще всего скачать архив с исполняемым файлом игры и данными (картинками и звуками), распаковать на диске и запустить исполняемый файл.
 
 Можно запускать из исходников. Тогда нужно:
-1. Скачать или клонировать проект (для клонирования должен быть установлен Git), выполнив `git clone https://github.com/nikolaypopov86/sonya-adventures.git`;
-2. [Установить Python](https://www.python.org/) не ниже 3.12;
-3. [Установить poetry](https://python-poetry.org/docs/#installation);
-4. Установить зависимости проекта, выполнив `poetry install`;
-5. Запустить проект, выполнив `poetry run python app.py` из корня проекта.
+1. Скачать или клонировать проект (для клонирования должен быть установлен Git), выполнив `git clone https://github.com/nikolaypopov86/sonya-adventures.git`
+2. [Установить Python](https://www.python.org/) не ниже 3.12
+3. [Установить poetry](https://python-poetry.org/docs/#installation)
+4. Установить зависимости проекта, выполнив `poetry install`
+5. Запустить проект, выполнив `poetry run python app.py` из корня проекта
 
 
 ## Управление

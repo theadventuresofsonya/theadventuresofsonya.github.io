@@ -2,6 +2,7 @@
 date = '2025-09-26T22:06:29+05:00'
 draft = false
 title = 'Фикс 0.3.1-alpha'
+tags = ['Фикс', 'Исправление уровней']
 +++
 
 {{< figure src="../../images/sonya5.jpg" title="Шестнадцатый уровень" >}}
